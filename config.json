@@ -1,5 +1,5 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
+	"ip":"AdrenalineNET.aternos.me",
+	"port": "50179",
 	"name": "BOT_NAME"
 }
